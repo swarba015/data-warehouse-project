@@ -6,14 +6,13 @@ This project demonstrates how to design, build, and document a modern data wareh
 ## Repository Structure
 This project follows a clean and scalable folder structure:
 
-\`\`\`
 SQL-Data-Warehouse-Project/
 │
 ├── datasets/        # Raw and processed datasets used throughout the project
 ├── documents/       # Design documents, diagrams, notes, and requirement specs
 ├── scripts/         # SQL scripts for database creation, schema design, ETL steps
 └── tests/           # Test cases and validation scripts for data quality
-\`\`\`
+
 
 
 
