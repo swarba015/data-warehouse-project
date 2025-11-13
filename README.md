@@ -15,8 +15,6 @@ SQL-Data-Warehouse-Project/
 
 
 
-
-
 ## Project Overview
 
 This project walks through the following steps:
